@@ -5,3 +5,8 @@ A small side project, that makes LLMs play on minecraft servers. Just insert the
 
 
 The instruct models are recommend to use.
+
+
+
+
+special thanks to skywhylxst for helping mwe comment this code and come up with this idea!
