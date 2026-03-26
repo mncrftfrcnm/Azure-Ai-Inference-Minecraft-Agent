@@ -9,4 +9,4 @@ The instruct models are recommend to use.
 
 
 
-special thanks to skywhylxst for helping mwe comment this code and come up with this idea!
+special thanks to skywhylxst for helping me comment this code and come up with this idea!
